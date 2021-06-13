@@ -40,6 +40,9 @@ sudo dpkg-reconfigure phpmyadmin
 Any questions or comments,
 22000453@handong.edu
 
+About open source:
+https://github.com/0x416c616e/todolistapp
+
 Program setting:
 https://m.blog.naver.com/icbanq/221724781893
 
