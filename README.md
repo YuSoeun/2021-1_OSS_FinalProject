@@ -7,7 +7,7 @@ This project is Implementation of functions to facilitate app design using LAMP 
 
 <h2>What does this project do?</h2>
 
-This project made version 1 of an app called 'the helper', and it made it possible to write down and delete functions that were thought of when designing the app. 
+This project is the version 1 of an app called 'the helper', and it made it possible to write down and delete functions that were thought of when designing the app. 
 
 
 <h2>Why is this project useful?</h2>
