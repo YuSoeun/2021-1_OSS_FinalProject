@@ -52,12 +52,12 @@ https://zzaps.tistory.com/16
 
 
 <h2>My contribution to this project: 50%</h2>
-```
-1.Overall program design. (bootstrap)
-2. Add and delete features.
-3. App conception.
-4. rebuild db
-```
+
+#### 1.Overall program design. (bootstrap)
+#### 2. Add and delete features.
+#### 3. App conception.
+#### 4. rebuild db
+
 ```
 +-----------+--------------+------+-----+---------+----------------+
 | Field     | Type         | Null | Key | Default | Extra          |
