@@ -21,7 +21,7 @@ Most of them exist for scheduling and distribution of work. By making a differen
 - You can delete the created list.
 - Data can be stored on the server.
 
-<h2>How do i get started?</h2>
+<h2>How do you get started?</h2>
 
 1. install apache2
 ```
@@ -36,7 +36,7 @@ sudo mysql_secure_installation
 sudo dpkg-reconfigure phpmyadmin
 ```
 
-<h2>Where can I get more helf if I need help?</h2>
+<h2>Where can I get more help if I need help?</h2>
 
 Any questions or comments,
 22000453@handong.edu
