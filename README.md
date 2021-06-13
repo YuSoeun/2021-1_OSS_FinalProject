@@ -13,7 +13,7 @@ This project is the version 1 of an app called 'the helper', and it made it poss
 
 <h2>Why is this project useful?</h2>
 
-Most of them exist for scheduling and distribution of work. By making a difference from these apps, we plan to create a program that helps the process of proposing and determining app functions in the pre-development stage.
+Most of them exist for scheduling and distribution of work. By making a difference from these apps, I plan to create a program that helps the process of proposing and determining app functions in the pre-development stage.
 
 <h3>You can..</h3>
 
