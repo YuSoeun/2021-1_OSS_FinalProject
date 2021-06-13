@@ -57,7 +57,8 @@ https://zzaps.tistory.com/16
 2. Add and delete features.
 3. App conception.
 4. rebuild db
-
+```
+```
 +-----------+--------------+------+-----+---------+----------------+
 | Field     | Type         | Null | Key | Default | Extra          |
 +-----------+--------------+------+-----+---------+----------------+
