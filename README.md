@@ -71,7 +71,7 @@ https://zzaps.tistory.com/16
 
 <h2> what to do in the next version 
  
-helps the process of proposing and determining app functions in the pre-development stage.
+#### helps the process of proposing and determining app functions in the pre-development stage.
 and visualize them.
 
 <h2> youtube link
