@@ -74,4 +74,4 @@ https://zzaps.tistory.com/16
 #### helps the process of proposing and determining app functions in the pre-development stage and visualize them.
 
 <h2> youtube link
-: 
+: https://youtu.be/6S9SlEkUzx0
