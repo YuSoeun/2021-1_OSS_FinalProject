@@ -23,13 +23,17 @@ Most of them exist for scheduling and distribution of work. By making a differen
 <h2>How do i get started?</h2>
 
 1. install apache2
+```
 sudo apt-get install apache2 php php-gd mariadb-client-10.0 mariadb-server-10.0 php-mysql phpmyadmin
-
+```
 2. set mysql
+```
 sudo mysql_secure_installation
-
+```
 3. set phpmyadmin
+```
 sudo dpkg-reconfigure phpmyadmin
+```
 
 <h2>Where can I get more helf if I need help?</h2>
 
@@ -49,7 +53,7 @@ https://zzaps.tistory.com/16
 2. Add and delete features.
 3. App conception.
 4. rebuild db
-
+```
 +-----------+--------------+------+-----+---------+----------------+
 | Field     | Type         | Null | Key | Default | Extra          |
 +-----------+--------------+------+-----+---------+----------------+
@@ -58,7 +62,7 @@ https://zzaps.tistory.com/16
 | item_id   | int          | NO   | PRI | NULL    | auto_increment |
 +-----------+--------------+------+-----+---------+----------------+
 3 rows in set (0.00 sec)
-
+```
 <h2> what to do in the next version 
 helps the process of proposing and determining app functions in the pre-development stage.
 and visualize them.
